@@ -1,6 +1,7 @@
 export * from './alias.ts';
 export * from './column-builder.ts';
 export * from './column.ts';
+export * from './custom-column.ts';
 export * from './entity.ts';
 export * from './errors.ts';
 export * from './logger.ts';
